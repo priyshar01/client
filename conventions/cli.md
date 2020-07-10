@@ -87,7 +87,7 @@ characteristics:
 - They can be _mandatory_ or _optional_
 - Mandatory flags are mentioned in the `Use` attribute of a command like in `service NAME --image IMAGE` for `ServiceCommand`
 - Optional flags can have _default values_
-- Flag values can be _scalars_, _binary_, _lists_ or _maps_ (see below for
+- Flag values can be _scalars_, _boolean_, _lists_ or _maps_ (see below for
   details)
 - Flags always have a long-form (starting with a double `--`) but can also have
   a shortcut (beginning with a single `-`)
