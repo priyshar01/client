@@ -34,10 +34,6 @@
 | Fix Missing NAMESPACE column header for 'kn source list -A'
 | https://github.com/knative/client/pull/951[#951]
 
-| 🎁
-| Add mock tests for the dynamic client
-| https://github.com/knative/client/pull/970[#970]
-
 |===
 
 ## v0.16.0 (2020-07-14)
